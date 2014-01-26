@@ -30,3 +30,5 @@ out/
 test/gen/
 test/bin/
 test/local.properties
+
+.DS_Store
